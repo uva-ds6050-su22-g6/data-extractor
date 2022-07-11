@@ -1,0 +1,5 @@
+mediawikiapi
+pandas
+pyarrow
+#beautifulsoup4
+
