@@ -7,7 +7,7 @@ Note the execution of this code is syncronous and only after processing the enti
 
 1. Create a virtual environment using `python -m venv venv`
 2. Source the virtual environment (either `source ./venv/bin/activate` or `source ./venv/Scripts/activate`
-3. Install the required dependencies using `python -m pip install -rrequirements.txt`
+3. Install the required dependencies using `python -m pip install -r requirements.txt`
 4. Run the python scripts in the following order.
    1. `python fetch.py`
    2. `python merge.py`
