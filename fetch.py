@@ -10,7 +10,7 @@ from mediawikiapi.exceptions import PageError
 
 
 input_folder = Path("./input_sources")
-input_files = ('astronomy.txt', 'biology.txt', 'political-science.txt')
+input_files = ('astronomy.txt', 'biology.txt', 'oceanography.txt', 'plantlife.txt', 'political-science.txt', 'sports.txt', 'state_and_war.txt')
 
 api_endpoint = MediaWikiAPI()
 
